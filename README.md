@@ -2,8 +2,6 @@
 
 
     One-Sentence Description:
-
-    
     An interactive Microsoft Excel dashboard providing comprehensive analysis of road accident data, focusing on casualties, vehicle involvement, road conditions, and trends across different regions.
 
     
